@@ -1,3 +1,8 @@
+![short1](https://github.com/user-attachments/assets/bd7a046d-f1c9-4dd3-8d4b-ce937a01c86a)
+![Pans 1](https://github.com/user-attachments/assets/ec799e6f-4f23-4a5a-915a-b5d68603983f)
+![fondo3](https://github.com/user-attachments/assets/9a64e94e-91a1-4e65-84b1-39d8457cbb7a)
+![fondo](https://github.com/user-attachments/assets/b6eb4be5-3125-45bf-a0aa-e0484ea00a66)
+![camisa1](https://github.com/user-attachments/assets/cc6a61a8-794b-4c27-975a-16261dbd5125)
 # MiniGymRat2024
 Proyecto IstmoTecnm 2024  
 <!DOCTYPE html>
